@@ -1,0 +1,64 @@
+@import 'config';
+@import 'basic';
+
+/* Layout */
+.flex {
+    display: flex;
+}
+.inline-flex {
+    display: inline-flex;
+}
+
+.grid {
+    display: grid;
+}
+.inline-grid {
+    display: inline-grid;
+}
+
+/* Flexbox & Grid */
+.flex-col {
+    flex-direction: column;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.j-center {
+    justify-content: center;
+}
+.j-around {
+    justify-content: space-around;
+}
+.j-between {
+    justify-content: space-between;
+}
+.j-evenly {
+    justify-content: space-evenly;
+}
+.a-center {
+    align-items: center;
+}
+
+/* Typography */
+.text-center {
+    text-align: center;
+}
+
+/* Background */
+.bg-center {
+    background-position: center;
+}
+.bg-no-repeat {
+    background-repeat: no-repeat;
+}
+.bg-cover {
+    background-size: cover;
+}
+.bg-contain {
+    background-size: contain;
+}
+
+/* Effects */
+.shadow {
+    box-shadow: $o-x $o-y $b-r $s-r $shadow-gray;
+}

@@ -8,6 +8,7 @@ $yellow: #ffc82c;
 $gray-dark: #273444;
 $gray: #8492a6;
 $gray-light: #d3dce6;
+$shadow-gray: rgba(31, 31, 31, 0.2);
 
 /* font config */
 $fontFamily: 'Inter', sans-serif;
@@ -26,3 +27,9 @@ $l: 16px;
 $lx: 24px;
 $lxx: 32px;
 $ll: 48px;
+
+/* shadow config */
+$o-x: 0px;
+$o-y: 2px;
+$b-r: 4px;
+$s-r: 1px;
