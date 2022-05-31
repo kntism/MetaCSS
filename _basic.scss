@@ -1,5 +1,8 @@
+@import 'config';
+
 /* basic elements */
 html {
+    font-size: $l;
     box-sizing: border-box;
 }
 *, *::before, *::after {
