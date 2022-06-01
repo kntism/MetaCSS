@@ -1,5 +1,5 @@
 # MetaCSS
- MetaCSS is only a basic stylesheet file. I like the idea of TailwindCSS， but don't like the complexity of it. So I create this for using in my project.
+ MetaCSS is only a basic stylesheet file. I like the idea of TailwindCSS，but don't like the complexity of it. So I create this for using in my project.
 
  Use it is very easy.
 
