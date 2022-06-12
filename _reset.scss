@@ -1,6 +1,6 @@
 @import 'config';
 
-/* basic elements */
+/* reset style of elements */
 html {
     font-size: $l;
     box-sizing: border-box;
@@ -16,4 +16,14 @@ a {
 }
 li {
     list-style: none;
+}
+input,
+button,
+textarea,
+select {
+    font-family: inherit;
+    font-size: 100%;
+}
+textarea {
+    overflow: auto;
 }

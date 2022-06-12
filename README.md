@@ -1,5 +1,5 @@
 # MetaCSS
- MetaCSS is only a basic stylesheet file. I like the idea of TailwindCSS，but don't like the complexity of it. So I create this for using in my project.
+ MetaCSS is only a small stylesheet file. I like the idea of TailwindCSS，but don't like the complexity of it. So I create this for using in my project.
 
  Use it is very easy.
 
@@ -16,7 +16,7 @@
 </div>
 ```
 
-When you want to style the `boxes` to flex, you can:
+When you want to style the `boxes` to flexbox, you can:
 
 ```
 <div class="boxes flex">
